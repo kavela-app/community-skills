@@ -1,17 +1,14 @@
----
-title: "Viral Launch Video Playbook"
-description: "AIDA framework for viral startup launch videos, with detailed technique extraction from Lemon.ai's 3.5M-view video and Kavela-adapted storyboard strategy"
-domain: "marketing"
-keywords: ["video", "launch", "viral", "AIDA", "remotion", "trailer", "product demo", "motion graphics", "storytelling", "lemon", "animation", "storyboard"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/motion-graphics-playbook"
-category: "docs"
----
 # Viral Launch Video Playbook
 
+> AIDA framework for viral startup launch videos, with detailed technique extraction from Lemon.ai's 3.5M-view video and Kavela-adapted storyboard strategy
+
+**Domain:** marketing · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `video` `launch` `viral` `AIDA` `remotion` `trailer` `product demo` `motion graphics` `storytelling` `lemon` `animation` `storyboard`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/motion-graphics-playbook)
+
+---
 # Viral Launch Video Playbook
 
 ## The 3.5M View Formula: AIDA Framework

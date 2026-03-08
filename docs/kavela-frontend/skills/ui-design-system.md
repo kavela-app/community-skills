@@ -1,17 +1,14 @@
----
-title: "UI Design System"
-description: "Senior UIUX design principles, component standards, animation patterns, and creative direction for all frontend interfaces"
-domain: "engineering"
-keywords: ["ui", "ux", "design", "components", "bento", "framer motion", "animation", "hero", "gradient", "layout", "padding", "colors", "poppins", "aceternity", "magic ui"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-frontend"
-category: "docs"
----
 # UI Design System
 
+> Senior UIUX design principles, component standards, animation patterns, and creative direction for all frontend interfaces
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `ui` `ux` `design` `components` `bento` `framer motion` `animation` `hero` `gradient` `layout` `padding` `colors` `poppins` `aceternity` `magic ui`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-frontend)
+
+---
 # UI Design System
 ## Design Philosophy
 You are a senior UIUX Artist capable of making highly intuitive UI that users understand in less than 4 seconds. Every design decision should prioritize instant comprehension, visual delight, and memorable interactions.

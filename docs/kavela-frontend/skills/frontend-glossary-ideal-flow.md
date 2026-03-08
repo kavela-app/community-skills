@@ -1,17 +1,14 @@
----
-title: "Frontend Glossary & Ideal Flow"
-description: "Defines key frontend terminology (spec = skill, group hierarchy) and documents the ideal user flow through the Kavela dashboard."
-domain: "engineering"
-keywords: ["spec", "skill", "glossary", "definitions", "flow", "dashboard", "sidebar", "editor", "group", "global"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-frontend"
-category: "docs"
----
 # Frontend Glossary & Ideal Flow
 
+> Defines key frontend terminology (spec = skill, group hierarchy) and documents the ideal user flow through the Kavela dashboard.
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `spec` `skill` `glossary` `definitions` `flow` `dashboard` `sidebar` `editor` `group` `global`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-frontend)
+
+---
 ## Terminology
 
 - **Skill** = **Spec**: These are the same thing. A skill is the atomic unit of knowledge in Kavela — it has a name, description, content, domain, and keywords. In the dashboard UI, skills are sometimes referred to as "specs" (short for specifications). They are interchangeable.

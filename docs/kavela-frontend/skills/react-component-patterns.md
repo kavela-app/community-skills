@@ -1,17 +1,14 @@
----
-title: "React Component Patterns"
-description: "Frontend React patterns, component structure, and state management conventions"
-domain: "engineering"
-keywords: ["react", "component", "hook", "state", "frontend", "ui", "typescript", "props"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-frontend"
-category: "docs"
----
 # React Component Patterns
 
+> Frontend React patterns, component structure, and state management conventions
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `react` `component` `hook` `state` `frontend` `ui` `typescript` `props`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-frontend)
+
+---
 # React Component Patterns
 
 ## File Organization

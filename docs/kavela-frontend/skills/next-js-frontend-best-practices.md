@@ -1,17 +1,14 @@
----
-title: "Next.js Frontend Best Practices"
-description: "Best practices for the Kavela frontend Next.js application covering server components, API patterns, authentication, and environment configuration"
-domain: "engineering"
-keywords: ["next.js", "server components", "api", "fetch", "authentication", "env", "environment variables", ".env", "NEXT_PUBLIC", "best practices", "frontend", "react server components", "RSC"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-frontend"
-category: "docs"
----
 # Next.js Frontend Best Practices
 
+> Best practices for the Kavela frontend Next.js application covering server components, API patterns, authentication, and environment configuration
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `next.js` `server components` `api` `fetch` `authentication` `env` `environment variables` `.env` `NEXT_PUBLIC` `best practices` `frontend` `react server components` `RSC`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-frontend)
+
+---
 # Next.js Frontend Best Practices
 
 ## API / MCP Data Fetching

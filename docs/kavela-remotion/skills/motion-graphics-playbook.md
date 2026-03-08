@@ -1,17 +1,14 @@
----
-title: "Motion Graphics Playbook"
-description: "Reverse-engineered rules for creating high-converting product demo videos — animation types, beat-sync patterns, storyboard structure, and what makes motion graphics feel premium"
-domain: "engineering"
-keywords: ["motion graphics", "remotion", "animation", "video", "trailer", "product demo", "beat sync", "storyboard", "twitter", "marketing", "conversion"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-remotion"
-category: "docs"
----
 # Motion Graphics Playbook
 
+> Reverse-engineered rules for creating high-converting product demo videos — animation types, beat-sync patterns, storyboard structure, and what makes motion graphics feel premium
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `motion graphics` `remotion` `animation` `video` `trailer` `product demo` `beat sync` `storyboard` `twitter` `marketing` `conversion`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-remotion)
+
+---
 # Motion Graphics Playbook
 
 ## Core Principles

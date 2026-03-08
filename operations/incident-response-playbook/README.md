@@ -1,17 +1,14 @@
----
-title: "Incident Response Playbook"
-description: "Step-by-step guide for handling production incidents and outages"
-domain: "operations"
-keywords: ["incident", "outage", "production", "response", "escalation", "postmortem", "on-call", "alert"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/incident-response-playbook"
-category: "operations"
----
 # Incident Response Playbook
 
+> Step-by-step guide for handling production incidents and outages
+
+**Domain:** operations · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `incident` `outage` `production` `response` `escalation` `postmortem` `on-call` `alert`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/incident-response-playbook)
+
+---
 # Incident Response Playbook
 
 ## Severity Levels

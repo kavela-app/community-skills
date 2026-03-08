@@ -1,17 +1,14 @@
----
-title: "Remotion Design System"
-description: "Kavela's Remotion design tokens, animation patterns, and visual rules — synced from the frontend landing page"
-domain: "engineering"
-keywords: ["remotion", "design system", "colors", "fonts", "animation", "motion graphics", "video", "trailer", "brand", "tokens"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/motion-graphics-playbook"
-category: "docs"
----
 # Remotion Design System
 
+> Kavela's Remotion design tokens, animation patterns, and visual rules — synced from the frontend landing page
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `remotion` `design system` `colors` `fonts` `animation` `motion graphics` `video` `trailer` `brand` `tokens`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/motion-graphics-playbook)
+
+---
 # Remotion Design System
 
 ## Logo

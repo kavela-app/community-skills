@@ -1,17 +1,14 @@
----
-title: "Trailer Production Workflow"
-description: "Step-by-step operational playbook for producing Remotion trailers — intake questions, scene-by-scene build order, timing calibration checklist, and hard-won production rules from real iterations"
-domain: "engineering"
-keywords: ["remotion", "trailer", "workflow", "production", "animation", "timing", "intake", "checklist", "video", "iteration", "storyboard", "scenes"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-remotion"
-category: "docs"
----
 # Trailer Production Workflow
 
+> Step-by-step operational playbook for producing Remotion trailers — intake questions, scene-by-scene build order, timing calibration checklist, and hard-won production rules from real iterations
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `remotion` `trailer` `workflow` `production` `animation` `timing` `intake` `checklist` `video` `iteration` `storyboard` `scenes`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-remotion)
+
+---
 # Trailer Production Workflow
 
 ## Phase 0: Intake Questions

@@ -1,17 +1,14 @@
----
-title: "Optimistic Update Patterns"
-description: "Frontend patterns for optimistic/eager UI updates — snapshot, mutate locally, API in background, revert on failure. Used in sidebar drag-and-drop, group creation, and batch operations."
-domain: "engineering"
-keywords: ["optimistic updates", "eager updates", "snapshot", "rollback", "revert", "drag and drop", "sidebar", "toast", "sonner", "UX", "performance"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/kavela-frontend"
-category: "docs"
----
 # Optimistic Update Patterns
 
+> Frontend patterns for optimistic/eager UI updates — snapshot, mutate locally, API in background, revert on failure. Used in sidebar drag-and-drop, group creation, and batch operations.
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `optimistic updates` `eager updates` `snapshot` `rollback` `revert` `drag and drop` `sidebar` `toast` `sonner` `UX` `performance`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/kavela-frontend)
+
+---
 # Optimistic Update Patterns
 
 ## Core Pattern: Snapshot → Mutate → API → Revert

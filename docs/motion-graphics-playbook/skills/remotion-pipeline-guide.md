@@ -1,17 +1,14 @@
----
-title: "Remotion Pipeline Guide"
-description: "How to use the autonomous Remotion pipeline — scheduling, rendering, and creating new compositions"
-domain: "engineering"
-keywords: ["remotion", "pipeline", "autonomous", "cron", "launchd", "render", "video", "automation", "claude code", "agent"]
-author: "Yong"
-workspace: "Kavela"
-version: "1.0.0"
-listing_type: "skill"
-listing_url: "https://kavela.ai/marketplace/motion-graphics-playbook"
-category: "docs"
----
 # Remotion Pipeline Guide
 
+> How to use the autonomous Remotion pipeline — scheduling, rendering, and creating new compositions
+
+**Domain:** engineering · **Version:** 1.0.0 · **By:** Yong (Kavela)
+
+**Keywords:** `remotion` `pipeline` `autonomous` `cron` `launchd` `render` `video` `automation` `claude code` `agent`
+
+[View on Kavela Marketplace](https://kavela.ai/marketplace/motion-graphics-playbook)
+
+---
 # Remotion Pipeline Guide
 
 ## Project Location
