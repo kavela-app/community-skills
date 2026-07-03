@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "kind": "kavela.agent",
+  "exportedAt": "2026-07-03T02:33:14.132Z",
+  "sourceSlug": "w8-publish-test",
+  "sourceVersion": "1.0.3",
+  "portableConfig": {
+    "agent": {
+      "name": "W8 Publish Test",
+      "description": "E3 real-data export fixture",
+      "shortDescription": "pub",
+      "defaultModel": null,
+      "allowedModels": null,
+      "searchConfig": {
+        "max_results": 5,
+        "max_candidates": 30,
+        "elbow_detection": true,
+        "min_relevance_threshold": 30,
+        "skill_fetch_instructions": ""
+      },
+      "enabledTools": [
+        "check_context"
+      ],
+      "revealSkillContent": false,
+      "revealRequiresPurchase": true,
+      "recommendedQueries": [
+        "do a thing"
+      ],
+      "searchCreditCost": "1.0000",
+      "creatorMarkup": "0.0000"
+    },
+    "systemPrompt": {
+      "content": "You are a published test agent."
+    },
+    "skills": [
+      {
+        "name": "Alpha Skill",
+        "description": "a",
+        "domain": "general",
+        "keywords": "a",
+        "content": "Alpha content."
+      },
+      {
+        "name": "Beta Skill",
+        "description": "b",
+        "domain": "general",
+        "keywords": "b",
+        "content": "Beta content."
+      },
+      {
+        "name": "Alpha Skill",
+        "description": "a",
+        "domain": "general",
+        "keywords": "a",
+        "content": "Alpha content."
+      },
+      {
+        "name": "Beta Skill",
+        "description": "b",
+        "domain": "general",
+        "keywords": "b",
+        "content": "Beta content."
+      },
+      {
+        "name": "X Only Skill",
+        "description": "belongs to X",
+        "domain": "xdomain",
+        "keywords": "xkey",
+        "content": "X_SECRET_BODY_should_be_scoped_to_X"
+      },
+      {
+        "name": "Y Secret Skill",
+        "description": "belongs to Y",
+        "domain": "ydomain",
+        "keywords": "ykey",
+        "content": "Y_SECRET_BODY_must_never_leak"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Pack",
+        "slug": "pack",
+        "description": "",
+        "skillNames": [
+          "Alpha Skill",
+          "Beta Skill",
+          "Alpha Skill",
+          "Beta Skill"
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "name": "weather",
+        "description": "",
+        "httpMethod": "GET",
+        "baseUrl": "https://api.example.com",
+        "pathTemplate": "/w",
+        "queryParams": {},
+        "headers": {},
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "city": {
+              "type": "string"
+            }
+          }
+        },
+        "outputMapping": {},
+        "artifactTemplate": null,
+        "authMethod": "user_managed",
+        "creditCost": "0.5000",
+        "timeoutMs": 30000,
+        "userConnectionSlot": "weatherapi",
+        "userConnectionSecretTemplate": null,
+        "routes": [
+          {
+            "slug": "current",
+            "description": "",
+            "httpMethod": "GET",
+            "pathTemplate": "/w",
+            "paramsSchema": {},
+            "outputMapping": null,
+            "artifactTemplate": null,
+            "fieldTransforms": {},
+            "resultContext": ""
+          }
+        ]
+      }
+    ]
+  },
+  "connectionRequirements": [
+    {
+      "slot": "weatherapi",
+      "label": "Weather API",
+      "service": "weatherapi"
+    }
+  ]
+}
