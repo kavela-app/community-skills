@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "kavela.agent",
-  "exportedAt": "2026-07-05T03:03:53.498Z",
+  "exportedAt": "2026-07-05T03:04:00.314Z",
   "sourceSlug": "theta-oss-1783219884",
   "sourceVersion": "1.0.0",
   "portableConfig": {
@@ -32,7 +32,7 @@
       ],
       "searchCreditCost": "1.0000",
       "creatorMarkup": "0.0000",
-      "license": "MIT"
+      "license": "Apache-2.0"
     },
     "systemPrompt": {
       "content": "You are a friendly test agent that explains open-source licensing."

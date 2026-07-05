@@ -1,6 +1,6 @@
 # Theta OSS Test
 
-![price: free](https://img.shields.io/badge/price-free-brightgreen) ![forkable](https://img.shields.io/badge/forkable-yes-blue) ![license: MIT](https://img.shields.io/badge/license-MIT-informational)
+![price: free](https://img.shields.io/badge/price-free-brightgreen) ![forkable](https://img.shields.io/badge/forkable-yes-blue) ![license: Apache 2.0](https://img.shields.io/badge/license-Apache%25202.0-informational)
 
 E2E open-source license test agent
 
@@ -15,7 +15,7 @@ Nothing — this agent needs no external connections.
 
 ## License
 
-This agent is open-sourced under the [**MIT**](https://opensource.org/license/mit) license (see [`LICENSE`](./LICENSE)). Forks carry the same terms.
+This agent is open-sourced under the [**Apache 2.0**](https://www.apache.org/licenses/LICENSE-2.0) license (see [`LICENSE`](./LICENSE)). Forks carry the same terms.
 
 ---
 
