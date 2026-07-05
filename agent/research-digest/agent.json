@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "kind": "kavela.agent",
+  "exportedAt": "2026-07-05T10:30:21.207Z",
+  "sourceSlug": "research-digest",
+  "sourceVersion": "1.0.0",
+  "portableConfig": {
+    "agent": {
+      "name": "Research Digest",
+      "description": "",
+      "shortDescription": "Finds and summarizes recent open-access research papers.",
+      "defaultModel": null,
+      "allowedModels": null,
+      "searchConfig": {
+        "max_results": 5,
+        "max_candidates": 30,
+        "elbow_detection": true,
+        "min_relevance_threshold": 60,
+        "skill_fetch_instructions": ""
+      },
+      "enabledTools": [
+        "check_context",
+        "get_skill",
+        "search_skills"
+      ],
+      "revealSkillContent": false,
+      "revealRequiresPurchase": true,
+      "recommendedQueries": [
+        "Find recent papers on sleep deprivation and cognitive performance",
+        "What does research say about plant-based diets and heart health?",
+        "Summarize recent studies on remote work productivity effects"
+      ],
+      "searchCreditCost": "1.0000",
+      "creatorMarkup": "0.0000",
+      "license": "CC-BY-4.0"
+    },
+    "systemPrompt": {
+      "content": "You find scholarly works and summarize them with proper citations."
+    },
+    "skills": [],
+    "groups": [],
+    "tools": [
+      {
+        "name": "search_papers",
+        "description": "Search for academic papers and scholarly works via the OpenAlex API",
+        "httpMethod": "GET",
+        "baseUrl": "https://api.openalex.org",
+        "pathTemplate": "/works",
+        "queryParams": {},
+        "headers": {},
+        "inputSchema": {
+          "type": "object",
+          "required": [
+            "search"
+          ],
+          "properties": {
+            "search": {
+              "type": "string",
+              "description": "Search query for finding academic works"
+            }
+          }
+        },
+        "outputMapping": {},
+        "artifactTemplate": null,
+        "authMethod": "none",
+        "creditCost": "0.5000",
+        "timeoutMs": 30000,
+        "userConnectionSlot": null,
+        "userConnectionSecretTemplate": null,
+        "routes": [
+          {
+            "slug": "default",
+            "description": "Search for academic papers and scholarly works via the OpenAlex API",
+            "httpMethod": "GET",
+            "pathTemplate": "/works",
+            "paramsSchema": {
+              "type": "object",
+              "required": [
+                "search"
+              ],
+              "properties": {
+                "search": {
+                  "type": "string",
+                  "description": "Search query for finding academic works"
+                }
+              }
+            },
+            "outputMapping": {},
+            "artifactTemplate": null,
+            "fieldTransforms": {},
+            "resultContext": ""
+          }
+        ]
+      }
+    ]
+  },
+  "connectionRequirements": []
+}
