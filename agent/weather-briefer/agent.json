@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "kind": "kavela.agent",
-  "exportedAt": "2026-07-05T10:28:33.921Z",
+  "exportedAt": "2026-07-06T05:42:33.953Z",
   "sourceSlug": "weather-briefer",
-  "sourceVersion": "1.0.0",
+  "sourceVersion": "1.0.1",
   "portableConfig": {
     "agent": {
       "name": "Weather Briefer",
@@ -27,11 +27,9 @@
       "revealRequiresPurchase": true,
       "recommendedQueries": [
         "What's the weather like in Austin this weekend?",
-        "Should I pack an umbrella for my trip to Seattle tomorrow?",
-        "Is it going to be hot enough to swim in Miami next week?"
+        "Should I bring an umbrella to Seattle tomorrow?",
+        "Is it safe to go hiking in Denver on Friday?"
       ],
-      "searchCreditCost": "1.0000",
-      "creatorMarkup": "0.0000",
       "license": "Apache-2.0"
     },
     "systemPrompt": {
